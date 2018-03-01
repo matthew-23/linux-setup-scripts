@@ -34,5 +34,7 @@ git config --global alias.last 'log -1 HEAD'
 
 pip3 install httpie
 
+apt install unzip
+
 
 
