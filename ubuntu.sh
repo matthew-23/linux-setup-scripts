@@ -1,6 +1,10 @@
 export LC_ALL="en_US.UTF-8"
 export LC_CTYPE="en_US.UTF-8"
 
+# python-dev
+apt install python-dev
+apt install python3-dev
+
 # pip
 apt install python3-pip -y
 pip3 install --upgrade pip
